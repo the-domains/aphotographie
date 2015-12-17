@@ -1,6 +1,6 @@
 name: aphotographie
 favicon: null
-layout_spectrum: 0.26223
+layout_spectrum: 0.20192
 typography_spectrum: 0.96189
 collections:
   - index:
@@ -28,13 +28,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#150D0E'
-    - '#D8C6B4'
-    - '#F3E3E6'
-    - '#6E5C4B'
-    - '#5A3717'
-  brandStrength: 0.8021277
-  lightness: 0.3125
-  saturation: 0.8125
+    - '#ffffff'
+    - '#301e20'
+    - '#f7b16b'
+    - '#f58b59'
+    - '#633832'
+  brandStrength: 0
+  lightness: 0.625
+  saturation: 0.5
   rhythmicContrast: 0.25
 purpose: []
