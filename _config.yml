@@ -1,28 +1,40 @@
-name: aphotographie
-favicon: null
 layout_spectrum: 0.4256491765845567
-typography_spectrum: 0.8529353167396039
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.5355547815561295
-  lightness: 0.397399197332561
-  saturation: 0.55892891343683
-  rhythmicContrast: 0.1496985089033842
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.55892891343683
+  lightness: 0.397399197332561
+  brandStrength: 0.8021277
+  brandColors:
+    - '#150D0E'
+    - '#D8C6B4'
+    - '#F3E3E6'
+    - '#6E5C4B'
+    - '#5A3717'
+  rhythmicContrast: 0.1496985089033842
+typography_spectrum: 0.8529353167396039
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: aphotographie
