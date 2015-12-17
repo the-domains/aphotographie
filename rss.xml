@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[aphotographie]]></title>
         <description><![CDATA[aphotographie]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aphotographie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 17:37:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 17:37:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aphotographie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Music ]]></title>
+            <description><![CDATA[<article><h1>Music </h1><p>music images section </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b828cac2368756b25e285caec94d7225226bf379.jpg"></article>]]></description>
+            <link>https://thegrid.ai/aphotographie/music/index.html</link>
+            <guid isPermaLink="false">06f7bef6-ae64-45cd-ae66-9ace9652c19e</guid>
+            <pubDate>Thu, 17 Dec 2015 17:37:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Check out this story by alex_ouya on @stellerstories]]></title>
+            <description><![CDATA[<article><h1>Check out this story by alex_ouya on @stellerstories</h1><p>SHORES I have seen </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a75f7495e8935327d18eb43727c53df346167b83.jpg"></article>]]></description>
+            <link>https://steller.co/s/56tJ6WaCRKY</link>
+            <guid isPermaLink="false">da0e8c5e-1f4d-4e39-9eda-5712a6cf7014</guid>
+            <pubDate>Thu, 17 Dec 2015 17:37:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Welcome !]]></title>
-            <description><![CDATA[<article><h1>Welcome !</h1><p>My first step to the grid</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71f228c5d1bbd1539f4e7e61a4d0595bdfc5b7a9.jpg"></article>]]></description>
-            <link>undefinedwelcome/index.html</link>
+            <description><![CDATA[<article><h1>Welcome !</h1><p>My first step to the grid</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7105b2a132db744a99e3640c1d57a8a7e632b07.jpg"></article>]]></description>
+            <link>https://thegrid.ai/aphotographie/welcome/index.html</link>
             <guid isPermaLink="false">b3ef6b61-f9bc-49df-8e99-131f2b0e6bbe</guid>
             <pubDate>Thu, 17 Dec 2015 17:37:07 GMT</pubDate>
         </item>
